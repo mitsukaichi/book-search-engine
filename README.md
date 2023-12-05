@@ -39,4 +39,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Resources referenced while building this project
 
 - [What is an exclamation point in GraphQL?: stackoverflow](https://stackoverflow.com/questions/50684231/what-is-an-exclamation-point-in-graphql)
+- [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries)
 
