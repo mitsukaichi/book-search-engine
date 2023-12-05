@@ -14,7 +14,7 @@ const typeDefs = `
     image: String
     link: String
     title: String
-    authors: String
+    authors: [String]
   }
 
   type Auth {
@@ -32,7 +32,7 @@ const typeDefs = `
     image: String
     link: String
     title: String
-    authors: String
+    authors: [String]
   }
 
   type Mutation {

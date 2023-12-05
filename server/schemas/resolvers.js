@@ -28,7 +28,7 @@ const resolvers= {
         saveBook: async (parent, { bookToSave, username }) => {
             return User.findOneAndUpdate(
                 { username: username },
-                { $addToSet: { savedBooks: {bookToSave} }},
+                { $addToSet: { savedBooks: bookToSave }},
                 { new: true, }
         )},
         removeBook: async (parent, { bookId, username }) => {

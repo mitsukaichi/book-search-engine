@@ -49,3 +49,10 @@ When I initially learnt about the GraphQL webUI available to query the database,
 
 ![screenshot]("https://github.com/mitsukaichi/book-search-engine/assets/45612744/bd160ceb-ddd6-4d10-8c4c-2bc8ffccb32d)
 
+
+
+{"authors": ['Frank Herbert'],
+"bookId": "UAhAEAAAQBAJ",
+"description": "NOW A MAJOR MOTION PICTURE directed by Denis Villeneuve, starring Timothée Chalamet, Zendaya, Jason Momoa, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, David Dastmalchian, Stephen McKinley Henderson, Chang Chen, Sharon Duncan-Brewster, Charlotte Rampling, and Javier Bardem. Frank Herbert’s classic masterpiece—a triumph of the imagination and one of the bestselling science fiction novels of all time. A mythic and emotionally charged hero’s journey, Dune tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.",
+"image": "http://books.google.com/books/content?id=UAhAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+"title": "Dune (Movie Tie-In)"}
