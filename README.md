@@ -41,3 +41,11 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - [What is an exclamation point in GraphQL?: stackoverflow](https://stackoverflow.com/questions/50684231/what-is-an-exclamation-point-in-graphql)
 - [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries)
 
+## Things I learnt from this challenge
+
+- The fact that having the GraphQL widget running while developing the server side of the element is useful
+
+When I initially learnt about the GraphQL webUI available to query the database, I didn't see the point of this as it felt the same thing as using MySQL workbench, MongoDB Compass and Insomnia to test the API routes set up on the server side, but I think this is useful to test out how exactly things are built on the server side and make query / mutation requests in the same syntax as we do on the client side before building things on the client side, this might be useful.
+
+![screenshot]("https://github.com/mitsukaichi/book-search-engine/assets/45612744/bd160ceb-ddd6-4d10-8c4c-2bc8ffccb32d)
+
