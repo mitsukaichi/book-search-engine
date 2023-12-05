@@ -49,6 +49,11 @@ When I initially learnt about the GraphQL webUI available to query the database,
 
 ![screenshot]("https://github.com/mitsukaichi/book-search-engine/assets/45612744/bd160ceb-ddd6-4d10-8c4c-2bc8ffccb32d)
 
+- The data object returned from graphQL: 
+
+![screenshot](https://github.com/mitsukaichi/book-search-engine/assets/45612744/ed17d9ee-0fd0-4e44-99a1-80411d12300d)
+
+
 
 
 {"authors": ['Frank Herbert'],
